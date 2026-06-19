@@ -1,0 +1,6 @@
+{"step":"entity_recognition","result":["深圳岚锋","北京岚锋","香港岚锋","开曼岚锋","IDG","Qiming","德朴投资","汇智同裕","朗玛系","华金系"]}
+{"step":"structure_detection","result":"red-chip + VIE + later dismantling"}
+{"step":"event_classification","result":["establishment","equity_financing","employee_incentive","restructuring","equity_transfer","ipo"]}
+{"step":"filter_applied","rule":"only equity flow events retained"}
+{"step":"final_output_summary","result":"10 major equity events extracted from IPO prospectus"}
+
