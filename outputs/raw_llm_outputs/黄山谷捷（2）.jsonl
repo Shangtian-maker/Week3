@@ -1,0 +1,5 @@
+{"page":38,"prompt":"extract equity events from historical section","llm_output":"昆山谷捷出资1000万元设立公司"}
+{"page":42,"prompt":"extract share transfer event","llm_output":"股权转让后黄山供销集团持股78%"}
+{"page":44,"prompt":"extract merger adjustment event","llm_output":"吸收合并后注册资本变更为1200万元"}
+{"page":45,"prompt":"extract capital increase event","llm_output":"赛格高技术与上汽科技增资514.2857万元"}
+{"page":46,"prompt":"extract employee stock ownership plan","llm_output":"员工持股平台黄山佳捷认购90.2256万元"}
