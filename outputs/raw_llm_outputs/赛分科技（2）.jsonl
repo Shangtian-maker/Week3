@@ -1,0 +1,6 @@
+{"type":"event","event_type":"设立","company":"赛分科技","confidence":0.92,"source_page":"49-52","note":"有限公司设立阶段形成初始股权结构"}
+{"type":"event","event_type":"增资","company":"赛分科技","confidence":0.90,"source_page":"69-80","note":"多轮VC进入，注册资本逐步增加"}
+{"type":"event","event_type":"股权转让","company":"赛分科技","confidence":0.88,"source_page":"69-80","note":"早期自然人股东部分退出"}
+{"type":"event","event_type":"增资","company":"赛分科技","confidence":0.91,"source_page":"80-86","note":"员工持股平台进入"}
+{"type":"event","event_type":"股改","company":"赛分科技","confidence":0.95,"source_page":"86-90","note":"有限公司整体变更为股份公司"}
+{"type":"event","event_type":"IPO发行","company":"赛分科技","confidence":0.99,"source_page":"6","note":"发行49,975,690股，价格4.32元"}
