@@ -1,9 +1,0 @@
-{"page":21,"prompt":"extract equity formation event","llm_output":"公司成立于2008年5月7日，注册资本设立"}
-{"page":31,"prompt":"extract restructuring equity conversion","llm_output":"有限公司整体变更为股份公司"}
-{"page":35,"prompt":"extract employee stock ownership plan","llm_output":"员工持股平台认购新增348万股，注册资本增加"}
-{"page":5,"prompt":"extract IPO issuance details","llm_output":"发行1627.9025万股，发行后总股本6511.6099万股"}
-{"page":44,"prompt":"extract equity formation event","llm_output":"金浦科创基金以3000万元认购新增注册资本360万元；上海骁墨以1500万元认购新增注册资本180万元"}
-{"page":45,"prompt":"extract equity formation event","llm_output":"杉晖创业认购297.3333万股且认购金额10000万元；上海联炻认购297.3333万股且认购金额10000万元；安吉璞颉认购148.6667万股且认购金额5000万元；财投晨源认购89.2万股且认购金额3000万元；深圳达晨创程认购86.5984万股且认购金额2912.5万元；杉创智至认购59.4667万股且认购金额2000万元；杭州达晨创程认购51.959万股且认购金额1747.5万元；达晨财汇认购29.7333万股且认购金额1000万元；达晨财智认购29.7333万股且认购金额1000万元；财智创赢认购10.1093万股且认购金额340万元"}
-{"page":57,"prompt":"extract equity formation event","llm_output":"丰利财富将其持有的666,680股股份转让给天健创投，价格1000万元；公司注册资本由4,000万增至4,264.3373万"}
-{"page":59,"prompt":"extract equity formation event","llm_output":"李文发以现金20万元认缴新增注册资本20万元；秦国君以现金20万元认缴新增注册资本20万元；李剑峰以现金20万元认缴新增注册资本20万元；周雪峰以现金60万元认缴新增注册资本60万元；注册资本由4264.3373万增至4635万，国科瑞华等增资"}
-{"page":63,"prompt":"extract equity formation event","llm_output":"员工资管计划合计缴款4240万元用于认购股份"}

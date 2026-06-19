@@ -1,8 +1,0 @@
-{"page":5,"prompt":"extract ipo structure","llm_output":"发行股票数量4826.7111万股，占25%，发行价46.36元"}
-{"page":31,"prompt":"extract equity transformation","llm_output":"净资产30888.64万元折股8150万股"}
-{"page":35,"prompt":"extract employee stock plan","llm_output":"共青城泽升等员工持股平台增资348万股"}
-{"page":17,"prompt":"extract risk factors","llm_output":"客户集中度超过50%，原材料铝价波动影响利润"}
-{"page":17,"prompt":"extract supply chain","llm_output":"铝水、铝棒占采购成本70%以上"}
-{"page":17,"prompt":"extract customer concentration","llm_output":"前五大客户占营收超过50%"}
-{"page":17,"prompt":"extract raw material cost","llm_output":"铝水、铝棒占采购成本70%以上"}
-{"page":44,"prompt":"extract capital increase events","llm_output":"2020-09-27金浦科创基金增资360万股，金额3000万元；2020-09-27上海骁墨增资180万股，金额1500万元；2022-12-19杉晖创业增资297.3333万股，金额10000万元；2022-12-19上海联炻增资297.3333万股，金额10000万元；2022-12-19安吉璞颉增资148.6667万股，金额5000万元；2022-12-19财投晨源增资89.2万股，金额3000万元；2022-12-19深圳达晨创程增资86.5984万股，金额2912.5万元；2022-12-19杉创智至增资59.4667万股，金额2000万元；2022-12-19杭州达晨创程增资51.959万股，金额1747.5万元；2022-12-19达晨财汇增资29.7333万股，金额1000万元；2022-12-19达晨财智增资29.7333万股，金额1000万元；2022-12-19财智创赢增资10.1093万股，金额340万元"}
