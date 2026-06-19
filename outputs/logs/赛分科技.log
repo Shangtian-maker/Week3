@@ -1,0 +1,9 @@
+[INFO] start parsing IPO prospectus: 688758_赛分科技
+[INFO] filtering sections: 历史沿革/股东变化/增资/转让
+[INFO] excluded sections: 财务/风险因素/业务/募投
+[INFO] detected equity events: 6 major flow events
+[INFO] event types: 设立(1), 增资(2), 转让(1), 改制(1), IPO(1)
+[INFO] investors identified: 国寿系, 华泰系, 复星系, 高瓴系, 员工持股平台
+[INFO] structural transformation: LLC -> Joint Stock Company detected
+[INFO] IPO issuance event parsed successfully
+[RESULT] extraction_status = SUCCESS
