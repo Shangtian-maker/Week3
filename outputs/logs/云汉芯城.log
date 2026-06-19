@@ -1,0 +1,33 @@
+[INFO] PDF loaded successfully (443 pages)
+
+[INFO] STEP1 - SECTION LOCATE (STRICT MODE)
+✓ selected:
+  - 第四节 发行人基本情况（股东变化）
+  - 第八节 公司治理与股权结构
+  - 附录股东信息
+  - 历次股权变动说明
+
+✗ excluded:
+  - 风险因素（全部排除）
+  - 财务会计信息
+  - 业务介绍章节
+  - 行业分析章节
+
+[INFO] STEP2 - EVENT DETECTION
+Detected equity flow events:
+  - 设立事件: 1
+  - 股份制改制: 1
+  - 员工持股/增资: 1
+  - IPO发行: 1
+
+[INFO] STEP3 - VALIDATION
+✓ page-level grounding: PASS
+✓ event-type mapping: PASS
+✓ schema compliance: PASS (jsonl one-line-per-event)
+
+[INFO] STEP4 - CRITICAL RULE ENFORCEMENT
+✓ no risk section leakage
+✓ no business narrative extraction
+✓ only equity flow retained
+
+[RESULT] extraction_status = SUCCESS
