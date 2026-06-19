@@ -1,0 +1,7 @@
+{"page":3,"prompt":"extract equity events","llm_output":"发行2,838万股...发行后总股本11,336万股"}
+{"page":450,"prompt":"extract history equity","llm_output":"设立时31万元...2002年股权调整...2018整体变更"}
+{"page":35,"prompt":"extract subscription","llm_output":"员工持股平台三联合伙增资348万股"}
+{"page":31,"prompt":"extract equity change","llm_output":"净资产30888.64万元折股8150万股"}
+{"page":450,"prompt":"extract equity transfer","llm_output":"2002年10月张银宽转让约8万出资额给孙国奉...2005年5月孙国奉等转让约9.2万出资额给张松满"}
+{"page":450,"prompt":"extract asset acquisition","llm_output":"2017年12月三连零部件股东将100%股权以4816.97万元价格转让给三联有限"}
+{"page":450,"prompt":"extract equity structure at time points","llm_output":"设立时总股本31万股...2002年10月总股本88万股...2018年10月总股本8150万股...2019年12月总股本8498万股"}
